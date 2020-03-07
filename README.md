@@ -8,4 +8,4 @@ By [opening an issue](https://github.com/tidb-challenge-program/register/issues/
 
 ## Points Inheritance
 
-By default, you should register with the same team name as 1st season to inherite your score, this helps you to skip some easy tasks. If you register as personal player in 1st season and want a score inheritance, call @you06 to help you in your sign-up issue.
+To inherit the points you earned in previous seasons, you must sign up by the same name with what you used back then. This will be reflected as your Accumulative Points. If it's over 200, you can direcly skip the Easy level tasks. If you run into any issues inheriting historical points, contact @you06 to help you out.
